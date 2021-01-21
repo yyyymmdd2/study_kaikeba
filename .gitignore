@@ -1,1 +1,5 @@
 .idea/
+res/
+/res/
+/res/*
+res/*
